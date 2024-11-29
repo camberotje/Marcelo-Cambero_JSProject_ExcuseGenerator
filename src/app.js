@@ -32,5 +32,5 @@ window.onload = function() {
     randomElement(what) +
     " " +
     randomElement(when);
-  +htmlTag.innerHTML = excuse; //innerHTML = cambia el contenido de una etiqueta HTML
+  htmlTag.innerHTML = excuse; //innerHTML = cambia el contenido de una etiqueta HTML
 };
